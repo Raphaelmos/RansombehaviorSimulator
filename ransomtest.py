@@ -1,4 +1,11 @@
 # Ransom Behavior Simulator Attempt using also a VirtualBox 
+
+# VirtualBox 
+"""
+Have Python and the libraries
+Use the command and use key
+"""
+
 from cryptography.fernet import Fernet
 import os
 import logging
