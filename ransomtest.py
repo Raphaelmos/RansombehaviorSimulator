@@ -3,7 +3,7 @@
 # VirtualBox 
 """
 Have Python and the libraries
-Use the command and use key
+Use the command.
 """
 
 from cryptography.fernet import Fernet
