@@ -1,4 +1,4 @@
-
+# Ransom Behavior Simulator Attempt using also a VirtualBox 
 from cryptography.fernet import Fernet
 import os
 import logging
