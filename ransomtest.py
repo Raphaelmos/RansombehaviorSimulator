@@ -1,5 +1,5 @@
 # Ransom Behavior Simulator Attempt using also a VirtualBox 
-
+# Still workingon it to look like a real one and not a key encrypt decrypt with gen
 # VirtualBox 
 """
 Have Python and the libraries
